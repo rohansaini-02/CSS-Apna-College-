@@ -1,0 +1,36 @@
+#one{
+    text-align:center;
+    color:rgb(232, 173, 25);
+    text-decoration: underline ;
+}
+
+h1{
+text-align:right;
+text-decoration: underline;
+}
+
+body{
+    background-color: rgb(231, 232, 232);
+}
+
+button{
+    color: rgb(254, 2, 2);
+    /* background-color:rgb(125, 169, 16) ; */
+
+}
+
+p{
+    text-align:left;
+}
+
+#id1{
+    font-weight: lighter;
+}
+
+#id2{
+    font-weight: bolder;
+}
+
+#id3{
+    font-weight: bold;
+}
